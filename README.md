@@ -1,6 +1,6 @@
 # README
 
-The original Matlab code can be seen in [[oldCode/Matlab]](the old code foler).
+The original Matlab code can be seen in [oldCode/Matlab](the old code foler).
 
 The python code in the main directory is the translated code.
 
